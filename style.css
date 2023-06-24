@@ -1,24 +1,24 @@
-body{
+body {
     background-color: #d4d4d2;
 }
 
-h1{
+h1 {
     margin-block-start: 0em;
     color: #fff;
 }
 
-h2{
+h2 {
     color: #d4d4d2;
 }
 
-.area{
+.area {
     display: flex;
     justify-content: center;
     background-color: #d4d4d2;
     color: #000;
 }
 
-.container{
+.container {
     display: inline-flex;
     padding: 1em;
     border-radius: 0.5em;
@@ -28,30 +28,32 @@ h2{
     background-color: #1c1c1c;
 }
 
-.input_area{
+.input_area {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-input{
+input {
     height: 1.5em;
     background-color: #d4d4d2;
     color: #000;
 }
 
-button{
+button {
     height: 3em;
     width: 100%;
     color: #fff;
     border: none;
     background-color: #ff9500;
 }
-button:hover{
-    cursor:pointer
+
+button:hover {
+    cursor: pointer
 }
-textarea{
+
+textarea {
     margin-top: 2em;
     width: 100%;
     background-color: #d4d4d2;
@@ -60,57 +62,26 @@ textarea{
 }
 
 @media screen and (max-width: 320px) {
-    
-    h1{
+    .container {
+        background-color: lightcoral;
+    }
+
+    h1 {
         font-size: 1.7em;
         margin: 40px auto;
     }
-    h2{
+
+    h2 {
         font-size: 1.3em;
     }
-    input{
+
+    input {
         width: 40%
     }
-    button{
+
+    button {
         margin-top: 20px;
         font-weight: bold;
         font-size: medium;
     }
 }
-
-@media screen and (max-width: 289px) {
-    h1{
-        font-size: 1.9em;
-        margin: 40px auto;
-    }
-    h2{
-        font-size: 1.6em;
-    }
-    input{
-        width: 40%
-    }
-    button{
-        margin-top: 20px;
-        font-weight: bold;
-        font-size: medium;
-    }
-}
-@media screen and (max-width: 400px) {
-    h1{
-        font-size: 1.9em;
-        margin: 40px auto;
-    }
-    h2{
-        font-size: 1.6em;
-    }
-    input{
-        width: 40%
-    }
-    button{
-        margin-top: 20px;
-        font-weight: bold;
-        font-size: medium;
-    }
-}
-
-
