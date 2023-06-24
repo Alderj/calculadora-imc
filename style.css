@@ -61,7 +61,7 @@ textarea {
     font-size: 18px;
 }
 
-@media screen and (min-width: 340px) {
+@media screen and (min-width: 350px) {
     .container {
         background-color: lightgreen;
     }
@@ -86,61 +86,61 @@ textarea {
     }
 }
 
-@media screen and (min-width: 341px) {
+@media screen and (min-width: 351px) {
     .container {
         background-color: #fff;
     }
 }
 
-@media screen and (min-width: 342px) {
+@media screen and (min-width: 352px) {
     .container {
         background-color: red;
     }
 }
 
-@media screen and (min-width: 343px) {
+@media screen and (min-width: 353px) {
     .container {
         background-color: blue;
     }
 }
 
-@media screen and (min-width: 344px) {
+@media screen and (min-width: 354px) {
     .container {
         background-color: yellow;
     }
 }
 
-@media screen and (min-width: 345px) {
+@media screen and (min-width: 355px) {
     .container {
         background-color: green;
     }
 }
 
-@media screen and (min-width: 346px) {
+@media screen and (min-width: 356px) {
     .container {
         background-color: pink;
     }
 }
 
-@media screen and (min-width: 347px) {
+@media screen and (min-width: 357px) {
     .container {
         background-color: lightslategray;
     }
 }
 
-@media screen and (min-width: 348px) {
+@media screen and (min-width: 358px) {
     .container {
         background-color: magenta;
     }
 }
 
-@media screen and (min-width: 349px) {
+@media screen and (min-width: 359px) {
     .container {
         background-color: maroon;
     }
 }
 
-@media screen and (min-width: 350px) {
+@media screen and (min-width: 360px) {
     .container {
         background-color: black;
     }
