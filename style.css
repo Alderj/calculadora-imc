@@ -175,6 +175,126 @@ textarea {
     }
 }
 
+@media screen and (min-width: 331px) {
+    .container {
+        background-color: #fff;
+    }
+}
+
+@media screen and (min-width: 332px) {
+    .container {
+        background-color: red;
+    }
+}
+
+@media screen and (min-width: 333px) {
+    .container {
+        background-color: blue;
+    }
+}
+
+@media screen and (min-width: 334px) {
+    .container {
+        background-color: yellow;
+    }
+}
+
+@media screen and (min-width: 335px) {
+    .container {
+        background-color: green;
+    }
+}
+
+@media screen and (min-width: 336px) {
+    .container {
+        background-color: pink;
+    }
+}
+
+@media screen and (min-width: 337px) {
+    .container {
+        background-color: lightslategray;
+    }
+}
+
+@media screen and (min-width: 338px) {
+    .container {
+        background-color: magenta;
+    }
+}
+
+@media screen and (min-width: 339px) {
+    .container {
+        background-color: maroon;
+    }
+}
+
+@media screen and (min-width: 340px) {
+    .container {
+        background-color: rgba(255, 235, 152,);
+    }
+}
+
+@media screen and (min-width: 341px) {
+    .container {
+        background-color: #fff;
+    }
+}
+
+@media screen and (min-width: 342px) {
+    .container {
+        background-color: red;
+    }
+}
+
+@media screen and (min-width: 343px) {
+    .container {
+        background-color: blue;
+    }
+}
+
+@media screen and (min-width: 344px) {
+    .container {
+        background-color: yellow;
+    }
+}
+
+@media screen and (min-width: 345px) {
+    .container {
+        background-color: green;
+    }
+}
+
+@media screen and (min-width: 346px) {
+    .container {
+        background-color: pink;
+    }
+}
+
+@media screen and (min-width: 347px) {
+    .container {
+        background-color: lightslategray;
+    }
+}
+
+@media screen and (min-width: 348px) {
+    .container {
+        background-color: magenta;
+    }
+}
+
+@media screen and (min-width: 349px) {
+    .container {
+        background-color: maroon;
+    }
+}
+
+@media screen and (min-width: 350px) {
+    .container {
+        background-color: rgba(255, 235, 152,);
+    }
+}
+
 @media screen and (min-width: 360px) {
     .container {
         background-color: lightgreen;
@@ -197,6 +317,126 @@ textarea {
         margin-top: 20px;
         font-weight: bold;
         font-size: medium;
+    }
+}
+
+@media screen and (min-width: 361px) {
+    .container {
+        background-color: #fff;
+    }
+}
+
+@media screen and (min-width: 362px) {
+    .container {
+        background-color: red;
+    }
+}
+
+@media screen and (min-width: 363px) {
+    .container {
+        background-color: blue;
+    }
+}
+
+@media screen and (min-width: 364px) {
+    .container {
+        background-color: yellow;
+    }
+}
+
+@media screen and (min-width: 365px) {
+    .container {
+        background-color: green;
+    }
+}
+
+@media screen and (min-width: 366px) {
+    .container {
+        background-color: pink;
+    }
+}
+
+@media screen and (min-width: 367px) {
+    .container {
+        background-color: lightslategray;
+    }
+}
+
+@media screen and (min-width: 368px) {
+    .container {
+        background-color: magenta;
+    }
+}
+
+@media screen and (min-width: 369px) {
+    .container {
+        background-color: maroon;
+    }
+}
+
+@media screen and (min-width: 370px) {
+    .container {
+        background-color: rgba(255, 235, 152,);
+    }
+}
+
+@media screen and (min-width: 371px) {
+    .container {
+        background-color: #fff;
+    }
+}
+
+@media screen and (min-width: 372px) {
+    .container {
+        background-color: red;
+    }
+}
+
+@media screen and (min-width: 373px) {
+    .container {
+        background-color: blue;
+    }
+}
+
+@media screen and (min-width: 374px) {
+    .container {
+        background-color: yellow;
+    }
+}
+
+@media screen and (min-width: 375px) {
+    .container {
+        background-color: green;
+    }
+}
+
+@media screen and (min-width: 376px) {
+    .container {
+        background-color: pink;
+    }
+}
+
+@media screen and (min-width: 377px) {
+    .container {
+        background-color: lightslategray;
+    }
+}
+
+@media screen and (min-width: 378px) {
+    .container {
+        background-color: magenta;
+    }
+}
+
+@media screen and (min-width: 379px) {
+    .container {
+        background-color: maroon;
+    }
+}
+
+@media screen and (min-width: 380px) {
+    .container {
+        background-color: rgba(255, 235, 152,);
     }
 }
 
