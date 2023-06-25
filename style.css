@@ -63,7 +63,7 @@ textarea {
 
 @media screen and (min-width: 312px) {
     .container {
-        background-color: magenta;
+        background-color: #1c1c1c;
         font-family: arial, sans-serif;
     }
     h1 {
