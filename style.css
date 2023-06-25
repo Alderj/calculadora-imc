@@ -339,7 +339,7 @@ textarea {
 
 @media screen and (min-width: 358px) {
     .container {
-        background-color: crimson;
+        background-color: green;
     }
 }
 
@@ -420,10 +420,6 @@ textarea {
     .container {
         background-color: magenta;
     }
-    h1{
-        display: none;
-    }
-
 }
 
 @media screen and (min-width: 369px) {
@@ -484,10 +480,6 @@ textarea {
     .container {
         background-color: magenta;
     }
-    h2{
-        display: none;
-    }
-
 }
 
 @media screen and (min-width: 379px) {
@@ -548,10 +540,6 @@ textarea {
     .container {
         background-color: magenta;
     }
-    button{
-        display: none;
-    }
-
 }
 
 @media screen and (min-width: 389px) {
