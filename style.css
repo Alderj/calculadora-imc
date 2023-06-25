@@ -61,6 +61,31 @@ textarea {
     font-size: 18px;
 }
 
+@media screen and (min-width: 312px) {
+    .container {
+        background-color: magenta;
+    }
+    h1 {
+        font-size: 1.7em;
+        margin: 40px auto;
+    }
+
+    h2 {
+        font-size: 1.3em;
+    }
+
+    input {
+        width: 40%
+    }
+
+    button {
+        margin-top: 20px;
+        font-weight: bold;
+        font-size: medium;
+        text-transform: uppercase;
+    }
+}
+
 @media screen and (min-width: 320px) {
     .container {
         background-color: lightgreen;
