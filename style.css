@@ -66,16 +66,18 @@ textarea {
         background-color: magenta;
     }
     h1 {
-        font-size: 1.7em;
-        margin: 40px auto;
+        font-size: 18px;
+        margin: 20px auto;
     }
 
     h2 {
-        font-size: 1.3em;
+        font-size: 12px;
+        font-weight: bold;
     }
 
     input {
-        width: 40%
+        width: 40%;
+        height: 20px;
     }
 
     button {
